@@ -1,2 +1,6 @@
-# Hello-World
-Hello world C program
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+  printf("bye");
+}
